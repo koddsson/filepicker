@@ -22,9 +22,6 @@
   "devDependencies": {
   },
   "main": "./index.js",
-  "engines": {
-    "node": "0.8.x"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/treygriffith/filepicker.git"
